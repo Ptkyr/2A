@@ -1,3 +1,3 @@
 # Notes
-For the courses I took in my 2A at UW
+For the courses I took in my 2A term at UW
 (WIP)
